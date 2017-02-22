@@ -37,19 +37,6 @@ public class SimpleConfigurationProvider implements IConfigurationProvider {
 
   public String getJiraConsumerPrivateKey() {
     return "-----BEGIN RSA PRIVATE KEY-----\n"
-        + "MIICXAIBAAKBgQDWUx733WLaKEMPC/dzdlho0EaeFjY8WfV9ug8PkRQkT/414mTt\n"
-        + "N+I7yq8vVBRlI1/1KH9g9aeCO1Drb0O3Euglexctsj+gkv88F6Og29JGRdMA6Wlt\n"
-        + "urErK3IvC0g8F/5/Y5b7bKNXoEBKyxvBVEZPnY2yLxCU4fQLl+FhPg1SjQIDAQAB\n"
-        + "AoGAJws/cgIntvxssvoIG0Ws93Mx2izLtpTgzwWtJrXUSIU2F1Tl8/0hPqk+3s1f\n"
-        + "Zcla+stk4SH/YQ8zP6CmYlyUY6IIRhtfXtHG9kCLsdsWCJEQZ7+f5CcwmUBuoNsS\n"
-        + "iN6X1yQd5eiHLC8fuF0xg7O1/BbnCJgaD6Sh2xp59DeelqECQQD7inXkHqDkn1m5\n"
-        + "DaNCQMhQ+CQ+yoXBZS+p9lsVWvY7V4xwJRUUJhf8C9enX7LsFjYnrNcXMTexc44+\n"
-        + "eiE42sdZAkEA2h/EOlaOvcDeBvlCkChTJ81xbshsW2aatuYs/uGhhnBR1Y2wQktx\n"
-        + "uW9R5+RDTOYFPiWnVByF5MHECZf+vM/yVQJAKfhdWVW+9Mad2uGqpuhWRCRTL+Ls\n"
-        + "1GsEu/AuHG8T/KzL8v5M+RKuF9EGB5hRK1E9cftF3EnLCCHGzyfjmS/v6QJBAIYu\n"
-        + "nIw2y0C38N3hYK1F4UHPBETeTqo7iFmTZ4K0UqVdWzpAG3ns51znuj8pEK2xovAE\n"
-        + "QddgZI3BFVPBiRel5LECQEU+lh5VeaKmB1CtBKXHLOPng9Uw6V9fRhqpJfy2Y+XQ\n"
-        + "eMr7H2smcfKxDKZ6ghPdFMGi903yy9UvZOq0Sk0G5sg=\n"
         + "-----END RSA PRIVATE KEY-----";
   }
 
