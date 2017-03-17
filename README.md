@@ -1,3 +1,5 @@
+[![Symphony Software Foundation - Archived](https://cdn.rawgit.com/symphonyoss/contrib-toolbox/master/images/ssf-badge-archived.svg)](https://symphonyoss.atlassian.net/wiki/display/FM/Archived)
+
 ##Symphony Jira Bot
 
 ###Created by Ryan D'souza and Paul Pollack
